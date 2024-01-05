@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - user: yavardhineni/fork-sync@v1.0
+      - user: yvardhineni/fork-sync@v1.0
         with:
           base: main
           head: main
